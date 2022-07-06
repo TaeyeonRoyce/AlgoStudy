@@ -23,7 +23,7 @@
    >    //백준 1010번 - 다리 놓기
    >    public class Boj_1010 {
    >    	public static void main(String[] args) {
-   >    		
+   >    		   
    >    	}
    >    }
    >    ```
@@ -53,7 +53,6 @@
    > print(sum(arr))
    > ```
 
-   
 3. 문제 해결 하기
 4. 한 문제 이상 가능하며, 주차별 최소 한 문제에 대한 풀이 작성
 5. 화면 공유하며 코드와 함께 문제 및 풀이 설명
@@ -69,3 +68,8 @@
   [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/2), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/3)
 
   주 내용 : 진행 방식 공유 및 OT
+
+
+- 2주차 PR
+  
+   [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/5), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/4)
