@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+//2022.07.13
+//Created by TaeyeonRoyce
+
 public class Boj_11663 {
 	private static int[] dotNums;
 
