@@ -73,3 +73,15 @@
 - 2주차 PR
   
    [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/5), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/4)
+
+
+- 3주차 PR 
+
+   [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/6), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/7)
+
+
+- 4주차 PR
+
+   [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/8), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/9)
+
+
