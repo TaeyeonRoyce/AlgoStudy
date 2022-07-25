@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 //Created by TaeyeonRoyce
 
 //Link https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14zIwqAHwCFAYD
-public class CodeGround_LinkedListCommand {
+public class SWEA_LinkedListCommand {
 
 	private static final String INSERT = "I";
 	private static final String DELETE = "D";

@@ -1,4 +1,4 @@
-package algorithms.week05;
+package algorithms.week05.swea_1231;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 
 //Link - https://swexpertacademy.com/main/solvingProblem/solvingProblem.do
 
-public class CodeGround_TreeInfixExpression {
+public class SWEA_1231 {
 
 	private static String answer = "";
 	public static void main(String args[]) throws Exception {
