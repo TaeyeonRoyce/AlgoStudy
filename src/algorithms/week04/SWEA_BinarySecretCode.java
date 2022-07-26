@@ -2,7 +2,7 @@ package algorithms.week04;
 
 import java.util.Scanner;
 
-public class CodeGround_BinarySecretCode {
+public class SWEA_BinarySecretCode {
 
 	private static final int[] NUMBER_CODE = new int[] {13, 25, 19, 61, 35, 49, 47, 59, 55, 11};
 
