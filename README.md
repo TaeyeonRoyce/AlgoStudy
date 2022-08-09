@@ -10,7 +10,7 @@
 ## 스터디 진행 방식
 1. 해당 레포지토리를 Clone하기
 2. 주차와 이름으로 새로운 브랜치 생성 `Ex) royce/week01`
-3. `src.algorithms.{$week}` 내에 해결할 문제 번호로 `Class` 생성
+3. `src.Royce.{$week}` 내에 해결할 문제 번호로 `Class` 생성
 
    > #### Java
    >
