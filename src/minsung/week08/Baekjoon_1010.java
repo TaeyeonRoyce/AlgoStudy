@@ -40,7 +40,7 @@ public class Baekjoon_1010 {
             cnt++;
         }
 
-        for (int i = 1; i < n+1; i++) {
+        for (int i = 1; i < n + 1; i++) {
             tmpN *= i;
         }
 
