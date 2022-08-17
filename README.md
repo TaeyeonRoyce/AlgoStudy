@@ -84,12 +84,24 @@
 
    [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/8), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/9)
 
+
 - 5주차 PR
 
   [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/10), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/11)
 
-- 4주차 PR
+
+- 6주차 PR
 
   [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/13), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/12)
+
+
+- 7주차 PR 
+
+    [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/16), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/15)
+
+
+- 8주차 PR
+
+    [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/18), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/17)
 
 
