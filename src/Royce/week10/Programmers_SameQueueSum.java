@@ -38,7 +38,6 @@ class Solution {
 		if (answer > limitCount) {
 			return -1;
 		}
-
 		return answer;
 	}
 }
