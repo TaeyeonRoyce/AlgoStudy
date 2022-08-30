@@ -20,7 +20,6 @@ public class Baekjoon_1012 {
             int k = Integer.parseInt(st.nextToken());
 
             int[][] arr = new int[n][m];
-            boolean[][] isVisited = new boolean[n][m];
 
             for (int j = 0; j < k; j++) {
                 st = new StringTokenizer(br.readLine(), " ");
