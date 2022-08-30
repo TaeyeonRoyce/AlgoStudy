@@ -6,13 +6,13 @@ import java.util.Queue;
 public class Programmers_SameQueueSum {
 
 	public static void main(String[] args) {
-		Solution solution = new Solution();
+		SameQueueSumSolution solution = new SameQueueSumSolution();
 		int answer = solution.solution(new int[] {1, 1, 1, 1, 1}, new int[] {1, 1, 1, 9, 1});
 		System.out.println(answer);
 	}
 }
 
-class Solution {
+class SameQueueSumSolution {
 	public int solution(int[] queue1, int[] queue2) {
 		int answer = 0;
 
