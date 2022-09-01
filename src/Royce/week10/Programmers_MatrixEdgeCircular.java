@@ -1,5 +1,9 @@
 package Royce.week10;
 
+//2022.08.28
+//Created by TaeyeonRoyce
+//https://school.programmers.co.kr/learn/courses/30/lessons/77485
+
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
