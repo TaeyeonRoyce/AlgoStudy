@@ -1,5 +1,9 @@
 package Royce.week10;
 
+//2022.08.29
+//Created by TaeyeonRoyce
+//https://school.programmers.co.kr/learn/courses/30/lessons/118667
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 
@@ -20,7 +24,7 @@ class SameQueueSumSolution {
 		CustomQueue fromQueue = new CustomQueue(queue1);
 		CustomQueue toQueue = new CustomQueue(queue2);
 
-		int limitCount = fromQueue.integerQueue.size() * 2;
+		int limitCount = fromQueue.integerQueue.size() * 3;
 
 		while (!fromQueue.checkEndCondition(toQueue)
 			&& answer <= limitCount) {
