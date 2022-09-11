@@ -1,5 +1,8 @@
 package Royce.week12;
 
+//2022.09.08
+//Created by TaeyeonRoyce
+//https://school.programmers.co.kr/learn/courses/30/lessons/92335
 public class Programmers_PrimeNumberFromK {
 
 	public static void main(String[] args) {
