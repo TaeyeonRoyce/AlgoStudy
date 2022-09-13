@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Baekjoon_9416 {
+public class Baekjoon_9461 {
     static long[] dp = new long[101];
     static int n;
 
