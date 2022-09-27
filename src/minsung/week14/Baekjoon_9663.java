@@ -9,7 +9,6 @@ public class Baekjoon_9663 {
     static int[][] board;
     static boolean[][] canAttack;
     static int cnt = 0;
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
@@ -36,12 +35,6 @@ public class Baekjoon_9663 {
                 dfs(k + 1);
 
                 board[k][i] = 0;
-
-                for (int j = 0; j < n; j++) {
-                    for (int l = 0; l < n; l++) {
-                        canAttack[j][l] = false;
-                    }
-                }
 
                 for (int j = 0; j < n; j++) {
                     for (int l = 0; l < n; l++) {
