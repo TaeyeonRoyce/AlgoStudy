@@ -38,6 +38,12 @@ public class Baekjoon_9663 {
 
                 for (int j = 0; j < n; j++) {
                     for (int l = 0; l < n; l++) {
+                        canAttack[j][l] = false;
+                    }
+                }
+
+                for (int j = 0; j < n; j++) {
+                    for (int l = 0; l < n; l++) {
                         if(board[j][l] == 1){
                             checkAttackablePos(j, l);
                         }
