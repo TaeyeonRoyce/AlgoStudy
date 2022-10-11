@@ -23,7 +23,7 @@
    >    //백준 1010번 - 다리 놓기
    >    public class Boj_1010 {
    >    	public static void main(String[] args) {
-   >    		   
+   >    		      
    >    	}
    >    }
    >    ```
@@ -119,4 +119,18 @@
 
   [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/23), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/22)
 
+- 12주차 PR
 
+  [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/25), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/24)
+
+- 13주차 PR
+
+  [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/26)
+
+- 14주차 PR
+
+  [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/28), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/27)
+
+- 15주차 PR
+
+  [Royce](https://github.com/TaeyeonRoyce/AlgoStudy/pull/29), [Minsung](https://github.com/TaeyeonRoyce/AlgoStudy/pull/30)
