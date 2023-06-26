@@ -1,6 +1,6 @@
 package Royce.practice;
 
-//2023.06.19
+//2023.06.23
 //Created by TaeyeonRoyce
 //https://www.acmicpc.net/problem/10814
 
