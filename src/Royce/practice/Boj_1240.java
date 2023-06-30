@@ -42,15 +42,12 @@ public class Boj_1240 {
             final boolean[] visited = new boolean[N + 1];
             final Deque<int[]> queue = new ArrayDeque<>();
             queue.add(new int[]{from, 0});
+            visited[from] = true;
 
             while (!queue.isEmpty()) {
                 final int[] nodeWithDistance = queue.pollFirst();
                 final int nodeNumber = nodeWithDistance[0];
                 final int distanceFrom = nodeWithDistance[1];
-                if (visited[nodeNumber]) {
-                    continue;
-                }
-                visited[nodeNumber] = true;
 
                 if (nodeNumber == to) {
                     System.out.println(distanceFrom);
@@ -59,7 +56,12 @@ public class Boj_1240 {
 
                 final List<Edge> node = nodes[nodeNumber];
                 for (final Edge edge : node) {
+                    if (visited[edge.to]) {
+                        continue;
+                    }
+
                     queue.add(new int[]{edge.to, distanceFrom + edge.weight});
+                    visited[edge.to] = true;
                 }
             }
         }
